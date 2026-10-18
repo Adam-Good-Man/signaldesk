@@ -1,0 +1,21 @@
+# Local secrets
+.env
+.env.local
+.env.*.local
+
+# Generated analysis dumps
+reddit_analysis_*.json
+reddit_batch_analysis_*.json
+twitter_analysis_*.json
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.pytest_cache/
+
+# OS / editor
+.DS_Store
+.idea/
